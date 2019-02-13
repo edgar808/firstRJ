@@ -1,0 +1,7 @@
+D:\Work  C#\facorial\facorial\bin\Debug\facorial.exe.config
+D:\Work  C#\facorial\facorial\bin\Debug\facorial.exe
+D:\Work  C#\facorial\facorial\bin\Debug\facorial.pdb
+D:\Work  C#\facorial\facorial\obj\Debug\facorial.csprojAssemblyReference.cache
+D:\Work  C#\facorial\facorial\obj\Debug\facorial.csproj.CoreCompileInputs.cache
+D:\Work  C#\facorial\facorial\obj\Debug\facorial.exe
+D:\Work  C#\facorial\facorial\obj\Debug\facorial.pdb
